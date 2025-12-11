@@ -17,10 +17,6 @@ Check out my personal website: [Anshu's Website](https://anshu-vishwakarma.verce
 - Diving deeper into **GraphQL** for API development.
 - Improving my skills in **React.js** and **TypeScript**.
 
-## 📈 GitHub Stats
-
-![Anshu Vishwakarma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshu-vishwakarma&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 ## 🔧 Technologies & Tools
 
 - **Languages**: JavaScript, HTML, CSS
