@@ -42,8 +42,8 @@ A personal portfolio website showcasing my work, projects, and skills.
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/anshu-vishwakarma-139ab424b/)
-- [Email](mailto:anshu902956@example.com)
+- [LinkedIn](http://www.linkedin.com/in/anshu147)
+- [Email](mailto:anshuv.dev@gmail.com)
 
 ## 🧠 Fun Facts
 - I love experimenting with new **front-end frameworks** and **web technologies**.
